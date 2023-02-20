@@ -2,8 +2,8 @@ public class Friend{
 
 // main method
 public static void main(String[] args){
-	System.out.println("Dear friend..!");
+	System.out.println("Hi..!");
 	System.out.println("Bunny");
-	System.out.println("How are you doing..");
+	System.out.println(" How are you ..?");
 }
 }
